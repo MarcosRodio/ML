@@ -7,4 +7,6 @@ media = (valor1+valor2)/2;
 
 print("O Valor da média é: ", media);
 
+valor3 = "Marcos Rodio";
+print(valor3);
 
